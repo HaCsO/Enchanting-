@@ -1,0 +1,11 @@
+name: EnchantingPlus
+main: ench.main.Enchanting
+version: 0.1
+commands:
+  epp:
+    description: enchantments command
+    usage: /epp help
+    
+  safe:
+  	description: save in safe
+  	usage: /safe help
