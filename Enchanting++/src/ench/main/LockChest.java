@@ -56,9 +56,6 @@ public class LockChest implements Listener {
 			
 		});
 
-		for (int i = 0; i > list.length; i++) {
-		}
-//		
 		String randID = "";
 		for (String str: getRandomId()) {
 			randID.concat(str);
